@@ -16,8 +16,8 @@ alert ('Este boton esta desabilitado.')
 } 
 }
 
-Aqui asociamos el evento onmousedown a la función click, este permite que cuando
-coloquemos el apuntador del mouse sobre cada elemeto aparezca en el formulario su información
+Aqui asociamos el evento onmousedown a la función click, este permite que cuando coloquemos
+el apuntador del mouse sobre cada elemeto aparezca en el formulario su información
 
 document.onmousedown=click
 
