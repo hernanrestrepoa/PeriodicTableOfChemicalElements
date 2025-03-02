@@ -1,4 +1,4 @@
-```Con el suiguiente código podemos crear una tabla periódica de los elementos químicos en HTML y JavaScript```
+```Con el siguiente código podemos crear una tabla periódica de los elementos químicos en HTML y JavaScript```
 
 ```Con el siguiente código iniciamos el documento HTML:```
 ```<HTML>```
